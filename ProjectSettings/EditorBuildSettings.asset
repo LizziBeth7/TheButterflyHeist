@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 21c958678cdf6cf4592784c2e47a7ca2
+  - enabled: 1
+    path: Assets/Scenes/BankVault.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/TimePiece.unity
+    guid: 54dd1d56606e23148865f54334759b91
+  - enabled: 1
+    path: Assets/Scenes/1916.unity
+    guid: 78a0d987b2c348342a5662825f8fc025
+  - enabled: 1
+    path: Assets/Scenes/1926.unity
+    guid: 7ce1fbbd609a08c44a36562036364aca
+  - enabled: 1
+    path: Assets/Scenes/1946.unity
+    guid: 3e21942362e23154fa98039e7ae7f6ba
+  - enabled: 1
+    path: Assets/Scenes/1986.unity
+    guid: c3e85ea41f4274a43b8f32629f66abb2
+  - enabled: 1
+    path: Assets/Scenes/2006.unity
+    guid: 5d9acb638c121444c9686b1ed311661f
+  - enabled: 1
+    path: Assets/Scenes/BankTellers.unity
+    guid: 0c28ac7e98833dc4eae2a7f6dba61761
+  - enabled: 1
+    path: Assets/Scenes/2026.unity
+    guid: 005b36f38efd57d44aa5ce459b72f7d4
+  - enabled: 1
+    path: Assets/Scenes/Info.unity
+    guid: 9ad511771dd50614db00976f846a3d08
+  - enabled: 1
+    path: Assets/Scenes/Ledgers.unity
+    guid: a874924ea2c5cd44983543b2832c3ca0
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 1a26f71805961c74082eb930c3cb85f6
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
